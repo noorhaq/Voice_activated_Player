@@ -1,0 +1,8 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.portWin": "COM8",
+  "files.associations": {
+    "i2s_stream.h": "c"
+  },
+  "idf.adapterTargetName": "esp32"
+}
